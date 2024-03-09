@@ -25,7 +25,7 @@ If you are following the steps correctly, when you run it it will show you this 
 ![step3](assets/step3.png)
 
 
-## **3,5. Open the file IDAnames.txt **
+## **3.5. Open the file IDAnames.txt **
 
 If everything is correct within the same folder, a file called "IDAnames.txt" will be created, simply open it
 ![step4](assets/step3.5.png)
