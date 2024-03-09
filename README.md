@@ -89,6 +89,7 @@ I feel like this step is not necessary, but you never know what questions people
 ## **12. Warning messages**
 
 If the messages that appear are like this, don't worry, just press ok until they stop appearing
+
 ![step12](assets/step12.png)
 
 ## **13. That's all!**
@@ -96,7 +97,8 @@ If the messages that appear are like this, don't worry, just press ok until they
 Now your functions will be named within IDA!
 
 Remember that those that do not have addresses in their "GeometryDash.bro" file will not appear renamed
+
 ![step12](assets/step13.png)
 
 
-# Amazin! It would be great if you supported me by giving the repository a star, tysm <3
+# Amazing! It would be great if you supported me by giving the repository a star, tysm <3
