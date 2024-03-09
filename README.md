@@ -1,25 +1,25 @@
-![step1](assets/step1.jpg)
+![step1](assets/step1.png)
 
-![step2](assets/step2.jpg)
+![step2](assets/step2.png)
 
-![step3](assets/step3.jpg)
+![step3](assets/step3.png)
 
-![step4](assets/step4.jpg)
+![step4](assets/step4.png)
 
-![step5](assets/step5.jpg)
+![step5](assets/step5.png)
 
-![step6](assets/step6.jpg)
+![step6](assets/step6.png)
 
-![step7](assets/step7.jpg)
+![step7](assets/step7.png)
 
-![step8](assets/step8.jpg)
+![step8](assets/step8.png)
 
-![step9](assets/step9.jpg)
+![step9](assets/step9.png)
 
-![step10](assets/step10.jpg)
+![step10](assets/step10.png)
 
-![step11](assets/step11.jpg)
+![step11](assets/step11.png)
 
-![step12](assets/step12.jpg)
+![step12](assets/step12.png)
 
-![step13](assets/step13.jpg)
+![step13](assets/step13.png)
