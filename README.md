@@ -4,7 +4,7 @@ First you must download the [script](https://github.com/iArtie/BindingsNamesForI
 
 You also need to download the file "GeometryDash.bro" or you can use your own for this
 
-
+//HI
 ## **1. Create a folder**
 
 It is necessary to create a folder and put the necessary files inside it
