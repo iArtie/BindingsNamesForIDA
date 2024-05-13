@@ -64,7 +64,7 @@ int main() {
         }
 
        
-        std::size_t found_equal = linea.find("= win ");
+        std::size_t found_equal = linea.find("= ios ");
         if (found_equal != std::string::npos) {
             std::size_t pos = linea.find("("); 
             if (pos != std::string::npos) {
