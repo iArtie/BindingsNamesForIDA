@@ -1,3 +1,6 @@
+//Made by BitZ 03/09/2024
+//Please if you are going to take something from here
+//At least make sure to leave credits, please and thank you.
 #include <iostream>
 #include <fstream>
 #include <string>
